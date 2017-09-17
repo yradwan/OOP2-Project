@@ -1,0 +1,48 @@
+Patient Details Report 
+
+Patient 1 Details
+
+Patient Name: Baslo
+Patient Address: z
+Patient Number: 234
+Patient Phone Number: 234
+
+
+Invoice 1 Details
+
+List of Procedures: 
+
+
+Procedure Name: Whiten teeth
+Prodcedure Cost: 34.0
+Procedure Number: 1
+
+List of Payments: 
+
+
+Payment Number: 1
+Payment Amount: 5.0
+Payment Date: 2016-04-15
+Patient 2 Details
+
+Patient Name: Shauna
+Patient Address: Helm Ave.
+Patient Number: 8172
+Patient Phone Number: 8172
+
+
+Invoice 1 Details
+
+List of Procedures: 
+
+
+Procedure Name: Whiten teeth
+Prodcedure Cost: 34.0
+Procedure Number: 1
+
+List of Payments: 
+
+
+Payment Number: 1
+Payment Amount: 2.0
+Payment Date: 2015-04-22
